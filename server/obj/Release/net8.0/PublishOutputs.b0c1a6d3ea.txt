@@ -1,0 +1,7 @@
+C:\Users\Scavo\OneDrive\Desktop\live-chat\my-chat\server\publish\server.exe
+C:\Users\Scavo\OneDrive\Desktop\live-chat\my-chat\server\publish\appsettings.Development.json
+C:\Users\Scavo\OneDrive\Desktop\live-chat\my-chat\server\publish\appsettings.json
+C:\Users\Scavo\OneDrive\Desktop\live-chat\my-chat\server\publish\server.dll
+C:\Users\Scavo\OneDrive\Desktop\live-chat\my-chat\server\publish\server.deps.json
+C:\Users\Scavo\OneDrive\Desktop\live-chat\my-chat\server\publish\server.runtimeconfig.json
+C:\Users\Scavo\OneDrive\Desktop\live-chat\my-chat\server\publish\server.pdb
